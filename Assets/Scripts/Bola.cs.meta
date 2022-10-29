@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0380880692162314d84b81cfa3aa8fbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioGol: {instanceID: 0}
+  - audioRaqueta: {instanceID: 0}
+  - audioRebote: {instanceID: 0}
+  - audioFin: {fileID: 8300000, guid: a8c082880ef5f4c4bb6286bc2adca9e8, type: 3}
+  - contadorIzquierda: {instanceID: 0}
+  - contadorDerecha: {instanceID: 0}
+  - textoResultado: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
